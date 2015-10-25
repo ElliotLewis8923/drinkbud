@@ -1,0 +1,24 @@
+{
+  "name": "drinkingbuddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElliotLewis8923/drinkbud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElliotLewis8923/drinkbud/issues"
+  },
+  "homepage": "https://github.com/ElliotLewis8923/drinkbud#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.65.0",
+    "xml2json": "^0.9.0"
+  }
+}
